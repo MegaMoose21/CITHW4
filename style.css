@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: red;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    transition: .5s;
+    margin: 0 10px;
+    line-height: 60px;
+}
+
+a:hover{
+    font-size: 21px;
+}
+
+img{
+    height: 200px;
+    border: solid grey;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    border: solid grey;
+
+}
+
+p{
+    margin-bottom: 20px;
+    color: white;
+    border: solid grey;
+}
+body{
+    background-color: black;
+}
